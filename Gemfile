@@ -38,7 +38,7 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   gem 'byebug'
   gem 'rspec-rails', '~> 3.5'
-  gem 'capybara'
+  gem 'capybara', '~> 2.8'
   gem 'database_cleaner'
 end
 
